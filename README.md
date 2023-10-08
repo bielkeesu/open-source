@@ -20,3 +20,5 @@ ismail abdullahi tanko nas/ste/19/1005
 Ibrahim Sanusi Yargoje NAS/STE/19/1022
 
 Muhammad Bashir Nasir NAS/STE/19/1012
+
+Ismail Tanko Abdullahi NAS/STE/19/1005
