@@ -14,3 +14,5 @@ Musa ahmed musa NAS/STE/19/1016
 abdullahi abdulrashid NAS/STE/19/1002
 
 ismail abdullahi tanko nas/ste/19/1005
+
+Ibrahim Sanusi Yargoje NAS/STE/19/1022
